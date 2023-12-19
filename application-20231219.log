@@ -1,0 +1,13 @@
+2023-12-19 17:52:08.972 [main] INFO  ch.framsteg.artikelstamm.pharmacode.accumulating.Accumulator - pcm: missing/wrong file operands
+2023-12-19 17:55:36.818 [main] INFO  ch.framsteg.artikelstamm.pharmacode.accumulating.Accumulator - How to start the Accumulator: java -jar accumulator.jar -p /PATH/TO/DICTIONARY.csv -gtin 0 -phar 1
+2023-12-19 17:55:36.819 [main] INFO  ch.framsteg.artikelstamm.pharmacode.accumulating.Accumulator - pcm: missing/wrong file operands
+2023-12-19 18:01:48.057 [main] INFO  ch.framsteg.artikelstamm.pharmacode.accumulating.Accumulator - How to start the Accumulator: java -jar accumulator.jar -p /PATH/TO/DICTIONARY.csv -gtin 0 -phar 1
+2023-12-19 18:01:48.058 [main] INFO  ch.framsteg.artikelstamm.pharmacode.accumulating.Accumulator - Missing/wrong file operands
+2023-12-19 18:01:48.059 [main] INFO  ch.framsteg.artikelstamm.pharmacode.accumulating.Accumulator - [-p, /home/debenath/Entwicklung/Artikelstamm/data/pharmacode.csv, -gtin, 0, -phar, 1]
+2023-12-19 18:03:35.535 [main] INFO  ch.framsteg.artikelstamm.pharmacode.accumulating.Accumulator - How to start the Accumulator: java -jar accumulator.jar -p /PATH/TO/DICTIONARY.csv -gtin 0 -phar 1
+2023-12-19 18:05:24.826 [main] INFO  ch.framsteg.artikelstamm.pharmacode.accumulating.Accumulator - How to start the Accumulator: java -jar accumulator.jar -p /PATH/TO/DICTIONARY.csv -gtin 0 -phar 1
+2023-12-19 18:11:53.113 [main] INFO  ch.framsteg.artikelstamm.pharmacode.accumulating.Accumulator - How to start the Accumulator: java -jar accumulator.jar -p /PATH/TO/DICTIONARY.csv -gtin 0 -phar 1
+2023-12-19 18:11:55.636 [main] INFO  ch.framsteg.artikelstamm.pharmacode.accumulating.Accumulator - Detected GTINs: (137’931)
+2023-12-19 18:11:55.636 [main] INFO  ch.framsteg.artikelstamm.pharmacode.accumulating.Accumulator - Detected PHARs: (131’393)
+2023-12-19 18:11:55.636 [main] INFO  ch.framsteg.artikelstamm.pharmacode.accumulating.Accumulator - Appended PHARs: (0)
+2023-12-19 18:11:55.637 [main] INFO  ch.framsteg.artikelstamm.pharmacode.accumulating.Accumulator - Finished
